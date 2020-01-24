@@ -317,7 +317,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/44703262/73070552-efd65e80-3ef3-11ea-8f0c-aa58da83924b.png)
 
 
 ### 예측한 결과가 일치하는 것을 볼 수 있다.
